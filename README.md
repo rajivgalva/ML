@@ -6,6 +6,7 @@ API used for this project is found at https://coinmarketcap.com/api/
 # Setup Instructions
 
 This repo contains user defined python packages so its easier for the user to install and use the code.
+
 Setp 1
 ```
 git clone 
