@@ -9,7 +9,7 @@ This repo contains user defined python packages so its easier for the user to in
 
 Setp 1
 ```
-git clone 
+git clone https://github.com/rajivgalva/ML
 ```
 Setp 2
 ```
